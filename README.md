@@ -1,6 +1,6 @@
 Juego de Hundir la Flota "beta"
 
-Este es un juego de hundir la flota simple programado en C++. El objetivo del juego es hundir los tres barcos que se encuentran ocultos en un tablero de 6x6.
+Este es un juego de hundir la flota aún en beta programado en C++. El objetivo del juego es hundir los tres barcos que se encuentran ocultos en un tablero de 6x6.
 
 
 Una vez iniciado el juego, se mostrará un tablero vacío de 6x6 y se colocarán tres barcos en posiciones aleatorias en el tablero. Los barcos pueden estar en posición horizontal o vertical.
